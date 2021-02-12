@@ -33,7 +33,7 @@
   <name>${application-name} :: 05 - Transforming</name>
 
   <properties>
-    <jaxb2-basics-version>0.6.4</jaxb2-basics-version>
+    <jaxb2-basics-version>0.12.0</jaxb2-basics-version>
 
     <maven-jaxb2-plugin-version>0.8.2</maven-jaxb2-plugin-version>
   </properties>
