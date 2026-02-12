@@ -34,7 +34,7 @@
   <name>${application-name} :: 10 - Runtimes :: Vert.x</name>
 
   <properties>
-    <vertx-version>3.3.3</vertx-version>
+    <vertx-version>3.9.16</vertx-version>
     <vertex-maven-plugin-version>1.0.4</vertex-maven-plugin-version>
   </properties>
 
